@@ -1,0 +1,15 @@
+<config>
+    <!--thumb:npc头像图 role:播放效果 fightLevel:战斗等级 level:武将等级 career:职业 zaonId:召唤兽ID-->
+    <general>
+    	<item id = "1000001" name = "恨易1" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "弓将" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000002" name = "恨易2" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "术士" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000003" name = "恨易3" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "武将" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000004" name = "恨易4" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "弓将" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000005" name = "恨易5" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "术士" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000006" name = "恨易6" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "武将" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000007" name = "恨易7" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "弓将" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000008" name = "恨易8" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "术士" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>
+    	<item id = "1000009" name = "恨易9" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "武将" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>	
+    	<item id = "1000010" name = "恨易10" thumb = "xxx.png" role = "xxx.swf" fightLevel="20" level = "30" career = "武将" zaonId = "35234534" hp = "800" ap = "60" def = "20" act = "20" hit = "0.70" dodge = "0.7" crit = "1.5" repel = "0"/>	 
+    </general>   
+</config>

@@ -1,0 +1,15 @@
+<config>
+	<!--id:阵型技ID effect:阵型技效果,skillType:阵型技类型(0:对自己加持,1:对敌人减持,2:对自己加攻[一次有效,但可同时对敌人产生异常]),
+	abnormalId:异常id,abnormalRatio:异常产生的概率 ratio:阵型技概率 duration:阵型技持续时间(0:一次有效,否则为持续毫秒数) cdDuration:阵型技冷却时间
+	isMhp:是否加上限,0:不加上限,1:加上限
+	.....阵型技加成-->
+	<rankSkill>
+		<item id = "20000001" name = "金钟罩" effect="xxx.swf" skillType = "0" abnormalId = "" abnormalRatio = "0" ratio = "0.2" duration = "3000" cdDuration = "20000" isMhp = "1" hp = "100" ap = "30" def = "100" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "20000002" name = "迷花阵" effect="xxx.swf" skillType = "1" abnormalId = "" abnormalRatio = "0" ratio = "0.2" duration = "5000" cdDuration = "30000" isMhp = "1" hp = "100" ap = "30%" def = "100" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "20000003" name = "如来神掌" effect="xxx.swf" skillType = "2" abnormalId = "112342" abnormalRatio = "0.2" ratio = "0.2" duration = "0" cdDuration = "25000" isMhp = "0" hp = "100" ap = "30" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "20000004" name = "流星雨" effect="xxx.swf" skillType = "1" abnormalId = "" abnormalRatio = "0" ratio = "0.99" duration = "4000" cdDuration = "12000" isMhp = "0" hp = "100" ap = "-30%" def = "100" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "20000005" name = "万剑归宗" effect="xxx.swf" skillType = "2" abnormalId = "" abnormalRatio = "0" ratio = "0.99" duration = "0" cdDuration = "28000" isMhp = "1" hp = "100" ap = "30" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "20000006" name = "花满楼" effect="xxx.swf" skillType = "1" abnormalId = "" abnormalRatio = "0" ratio = "0.2" duration = "5000" cdDuration = "21000" isMhp = "1" hp = "100" ap = "30%" def = "100" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "20000007" name = "铁布衫" effect="xxx.swf" skillType = "0" abnormalId = "" abnormalRatio = "0" ratio = "0.2" duration = "3000" cdDuration = "20000" isMhp = "0" hp = "100" ap = "30" def = "100" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+	</rankSkill>
+</config>

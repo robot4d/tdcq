@@ -1,0 +1,14 @@
+<config>
+	<normalSkills>
+		<!--id:武将技ID name:武将技名称 skillEffect:武将技表现效果 skillLevel:武将技级别 ratio:武将技释放概率 hp:体力 ap:攻击力 def:防御力 act:行动力 hit:命中 dodge:闪躲 crit:致命一击 repel:反击-->
+		<item id = "6000001" name = "总决式" skillEffect = "xxx.swf" skillLevel = "1" multiAt = "2" multiAtRatio = "0.3" ratio = "0.26" hp = "0" ap = "100" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000002" name = "破剑式" skillEffect = "xxx.swf" skillLevel = "2" multiAt = "2" multiAtRatio = "0.3" ratio = "0.24" hp = "0" ap = "120" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000003" name = "破刀式" skillEffect = "xxx.swf" skillLevel = "3" multiAt = "2" multiAtRatio = "0.3" ratio = "0.22" hp = "0" ap = "140" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000004" name = "破枪式" skillEffect = "xxx.swf" skillLevel = "4" multiAt = "2" multiAtRatio = "0.3" ratio = "0.20" hp = "0" ap = "160" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000005" name = "破鞭式" skillEffect = "xxx.swf" skillLevel = "5" multiAt = "2" multiAtRatio = "0.3" ratio = "0.18" hp = "0" ap = "180" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000006" name = "破索式" skillEffect = "xxx.swf" skillLevel = "6" multiAt = "2" multiAtRatio = "0.3" ratio = "0.16" hp = "0" ap = "200" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000007" name = "破掌式" skillEffect = "xxx.swf" skillLevel = "7" multiAt = "2" multiAtRatio = "0.3" ratio = "0.14" hp = "0" ap = "220" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000008" name = "破箭式" skillEffect = "xxx.swf" skillLevel = "8" multiAt = "2" multiAtRatio = "0.3" ratio = "0.12" hp = "0" ap = "240" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<item id = "6000009" name = "破气式" skillEffect = "xxx.swf" skillLevel = "9" multiAt = "2" multiAtRatio = "0.3" ratio = "0.10" hp = "0" ap = "260" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+	</normalSkills>
+</config>

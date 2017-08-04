@@ -1,0 +1,13 @@
+<config>
+    <!--id:武器ID name:武器名称 weaponEffect:武器效果 atDistance:攻击距离 atRange:攻击目标 hurtRatio:武器伤害比例-->
+    <weaponType>
+	  <item id = "3000001" name = "剑" weaponEffect = "xxx.swf" atDistance = "2" atRange = "0" hurtRatio = ""/>
+		<item id = "3000002" name = "斧" weaponEffect = "xxx.swf" atDistance = "1" atRange = "0" hurtRatio = ""/>
+		<item id = "3000003" name = "锤" weaponEffect = "xxx.swf" atDistance = "2" atRange = "0,1,5,-1,-5" hurtRatio = "1,0.5,0.5,0.5,0.5"/>
+		<item id = "3000004" name = "枪" weaponEffect = "xxx.swf" atDistance = "2" atRange = "0,5,10,15,20" hurtRatio = "1,0.5,0.25,0.125,0.0625"/>
+		<item id = "3000005" name = "鞭" weaponEffect = "xxx.swf" atDistance = "2" atRange = "0,-1,-2,-3,-4" hurtRatio = "1,1,1,1,1"/>
+		<item id = "3000006" name = "弓" weaponEffect = "xxx.swf" atDistance = "6" atRange = "0" hurtRatio = ""/>
+		<item id = "3000007" name = "飞刀" weaponEffect = "xxx.swf" atDistance = "4" atRange = "0,5" hurtRatio = "1,0.5"/>
+		<item id = "3000008" name = "扇" weaponEffect = "xxx.swf" atDistance = "3" atRange = "0" hurtRatio = ""/>
+	</weaponType>
+</config>
