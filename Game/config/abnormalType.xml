@@ -1,0 +1,14 @@
+<config>
+    <!--异常状态属性,作为武将技的附属技能,影响npc的二级属性-->
+    <intermittence>    
+        <item id = "112340" name = "中毒" effect = "xxxx.swf" interval = "2000" times = "2" hp = "0" ap = "50" def = "20" act = "0" hit = "0" dodge = "0" crit = "1" repel = "0"/>
+        <item id = "112341" name = "流血" effect = "xxxx.swf" interval = "1000" times = "3" hp = "0" ap = "50" def = "20" act = "0" hit = "0" dodge = "0" crit = "1" repel = "0"/>
+    </intermittence>
+    <persistent>
+        <item id = "112342" name = "破甲" effect = "xxxx.swf" duration = "5000" hp = "0" ap = "50" def = "20" act = "0" hit = "0" dodge = "0" crit = "1" repel = "0"/>
+        <item id = "112343" name = "石化" effect = "xxxx.swf" duration = "8000" hp = "0" ap = "50" def = "20" act = "0" hit = "0" dodge = "0" crit = "1" repel = "0"/>
+        <item id = "112344" name = "缓慢" effect = "xxxx.swf" duration = "7000" hp = "0" ap = "50" def = "20" act = "0" hit = "0" dodge = "0" crit = "1" repel = "0"/>
+        <item id = "112345" name = "麻痹" effect = "xxxx.swf" duration = "9000" hp = "0" ap = "50" def = "20" act = "0" hit = "0" dodge = "0" crit = "1" repel = "0"/>
+        <item id = "112346" name = "昏睡" effect = "xxxx.swf" duration = "6000" hp = "0" ap = "50" def = "20" act = "0" hit = "0" dodge = "0" crit = "1" repel = "0"/>
+    </persistent>    
+</config>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PosConfig>
+    <ListItems>
+	    <GeneralInfo name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<GeneralInfo name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<GeneralInfo name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<GeneralInfo name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<GeneralInfo name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<GeneralInfo name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<GeneralInfo name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<GeneralInfo name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+    </ListItems>
+</PosConfig>

@@ -1,0 +1,8 @@
+<config>
+	<!--障碍物基本属性-->
+    <obstacleType>
+        <item id = "2345324" name = "树" asset = "xxx.swf" grids = "0,1,5,6" life = "20"/>
+	 	    <item id = "2345325" name = "砖" asset = "xxx.swf" grids = "1" life = "30"/>
+				<item id = "2345326" name = "草" asset = "xxx.swf" grids = "0,1" life = "40"/>
+    </obstacleType>
+</config>

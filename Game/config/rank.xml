@@ -1,0 +1,39 @@
+﻿<config>
+	<rank>
+ 	   <!--grids:阵型占用格(1-25编号) effect:阵型技效果 rankLevel:阵型级别 rankEye:阵眼(阵眼位置死一个就算破阵) leastNum:破阵人数(当人数小于等于指定值时即为破阵)
+		rescue:援护第几格(-1:表示没有援护,否则为援护第几格) rescueRatio:援护概率 multiAt:连携第几格(-1:表示没有连携,否则为连携第几格) multiAtRatio:连携概率 
+		hp:体力 ap:攻击力 def:防御力 act:行动力 hit:命中 dodge:闪躲 crit:致命一击 repel:反击-->
+ 	   <item id = "888888800" name = "狼牙阵" grids = "6,8,11,12,13" rankLevel = "1" rankEye = "6,8" leastNum = "3" rankSkill = "20000001">
+		  <grid pos = "6" rescue = "-1" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "0" ap = "15%" def = "0" act = "0" hit = "5%" dodge = "-5%" crit = "0.2" repel = "0"/>
+		  <grid pos = "8" rescue = "-1" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "0" ap = "15%" def = "0" act = "0" hit = "5%" dodge = "-5%" crit = "0.2" repel = "0"/>
+			<grid pos = "11" rescue = "-1" rescueRatio = "0" multiAt = "6" multiAtRatio = "0.25" hp = "0" ap = "0" def = "0" act = "-200" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "12" rescue = "-1" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "0" ap = "0" def = "-20%" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0.1"/>
+			<grid pos = "13" rescue = "-1" rescueRatio = "0" multiAt = "8" multiAtRatio = "0.25" hp = "0" ap = "0" def = "0" act = "-200" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		</item>
+		<item id = "888888801" name = "禁锢之阵" grids = "6,8,12,16,18" rankLevel = "2" rankEye = "12" leastNum = "3" rankSkill = "20000003">
+		  <grid pos = "6" rescue = "16" rescueRatio = "0.2" multiAt = "-1" multiAtRatio = "0" hp = "-50" ap = "0" def = "0" act = "0" hit = "0" dodge = "0.1" crit = "0" repel = "-0.1"/>
+			<grid pos = "8" rescue = "6" rescueRatio = "0.2" multiAt = "-1" multiAtRatio = "0" hp = "-50" ap = "0" def = "0" act = "0" hit = "0" dodge = "0.1" crit = "0" repel = "-0.1"/>
+			<grid pos = "12" rescue = "-1" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "20%" ap = "0" def = "0" act = "0" hit = "0" dodge = "0.2" crit = "0" repel = "-0.2"/>
+			<grid pos = "16" rescue = "18" rescueRatio = "0.2" multiAt = "-1" multiAtRatio = "0" hp = "-50" ap = "0" def = "0" act = "0" hit = "0" dodge = "0.1" crit = "0" repel = "-0.1"/>
+			<grid pos = "18" rescue = "8" rescueRatio = "0.2" multiAt = "-1" multiAtRatio = "0" hp = "-50" ap = "0" def = "0" act = "0" hit = "0" dodge = "0.1" crit = "0" repel = "-0.1"/>
+		</item>
+		<item id = "888888802" name = "流水阵" grids = "6,8,12,16,18" rankLevel = "3" rankEye = "12" leastNum = "3" rankSkill = "20000004">
+		  <grid pos = "6" rescue = "12" rescueRatio = "0.8" multiAt = "8" multiAtRatio = "0.2" hp = "14" ap = "2" def = "200" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "8" rescue = "-1" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "15" ap = "1" def = "220" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "12" rescue = "18" rescueRatio = "0.2" multiAt = "16" multiAtRatio = "0.2" hp = "18" ap = "4" def = "260" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "16" rescue = "-1" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "16" ap = "3" def = "180" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "18" rescue = "-1" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "20" ap = "3" def = "240" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		</item>
+		<item id = "888888803" name = "背水阵" grids = "20,21,22,23,24" rankLevel = "3" rankEye = "12" leastNum = "3" rankSkill = "20000004">
+		  <grid pos = "20" rescue = "24" rescueRatio = "0.8" multiAt = "8" multiAtRatio = "0.2" hp = "14" ap = "2" def = "200" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "21" rescue = "20" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "15" ap = "1" def = "220" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "22" rescue = "21" rescueRatio = "0.2" multiAt = "16" multiAtRatio = "0.2" hp = "18" ap = "4" def = "260" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "23" rescue = "22" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "16" ap = "3" def = "180" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+			<grid pos = "24" rescue = "23" rescueRatio = "0" multiAt = "-1" multiAtRatio = "0" hp = "20" ap = "3" def = "240" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		</item>
+	</rank>
+	<!--修改:增加了一张rankSkill表
+	阵型加成和阵型技加成分别两张表,不再用","分隔
+	rankType = "0" ratio = "0.2" duration = "8000" 删除
+	-->
+</config>

@@ -1,0 +1,15 @@
+<config>   
+	<!--召唤兽配置-->
+	<zaonValue>
+		<zaonItem id = "234234" name = "w3twt1" role = "xx.swf" grids = "0,1" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234235" name = "w3twt2" role = "xx.swf" grids = "0" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234236" name = "w3twt3" role = "xx.swf" grids = "0,1,2" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234237" name = "w3twt4" role = "xx.swf" grids = "0,5,6" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234238" name = "w3twt5" role = "xx.swf" grids = "0,1,2,3" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234239" name = "w3twt6" role = "xx.swf" grids = "0,1,2,3,4" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234240" name = "w3twt7" role = "xx.swf" grids = "0,5,10,15,20" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234241" name = "w3twt8" role = "xx.swf" grids = "0,5,6,7" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234242" name = "w3twt9" role = "xx.swf" grids = "0,1,5,6" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+		<zaonItem id = "234243" name = "w3tw10" role = "xx.swf" grids = "0,1,5,6,10,11" hp = "10" ap = "0" def = "0" act = "0" hit = "0" dodge = "0" crit = "0" repel = "0"/>
+	</zaonValue>
+</config>

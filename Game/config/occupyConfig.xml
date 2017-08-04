@@ -1,0 +1,12 @@
+<config>
+	<occupyConfig>
+	  <item name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<item name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<item name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<item name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<item name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<item name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<item name = "恨易" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+		<item name = "逆天" image = "xxx.png" role = "xxx.swf" grids = "1" zaonId = "35234534" />
+  </occupyConfig>
+</config>
